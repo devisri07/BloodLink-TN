@@ -1,0 +1,195 @@
+{
+  "Chennai": [
+    "Apollo Hospitals Chennai",
+    "MIOT International Hospital",
+    "Kauvery Hospital Chennai",
+    "Fortis Malar Hospital",
+    "Global Hospitals Chennai",
+    "L.V. Prasad Eye Institute",
+    "Sri Ramachandra Medical Centre",
+    "Billroth Hospitals",
+    "Vijaya Hospital",
+    "Stanley Medical College Hospital"
+  ],
+  "Coimbatore": [
+    "Ganga Hospitals",
+    "KMCH - Kovai Medical Center and Hospital",
+    "PSG Hospitals",
+    "Sri Ramakrishna Hospital",
+    "KG Hospitals",
+    "Nalla Medical College Hospital",
+    "KK Childs Trust Hospital",
+    "Pankajam Hospital",
+    "Sankara Eye Care",
+    "Ponnusamy Hospital"
+  ],
+  "Madurai": [
+    "Meenakshi Mission Hospital",
+    "Velammal Medical College Hospital",
+    "Apollo Hospital Madurai",
+    "Vadamalayan Hospitals",
+    "Rajaji Government Hospital",
+    "Government Rajaji Hospital",
+    "V.K. Hospital",
+    "Balaji Hospital",
+    "Senthil Hospital",
+    "Matha Hospital"
+  ],
+  "Salem": [
+    "Salem District Hospital",
+    "Sheela Hospital",
+    "SKS Hospital",
+    "Vinayaka Mission Hospital",
+    "Nethra Hospital",
+    "Aravind Eye Hospital Salem",
+    "Mahatma Gandhi Medical College Hospital",
+    "Chettinad Hospital",
+    "Sundaram Hospital"
+  ],
+  "Tiruchirappalli": [
+    "Kauvery Hospital Trichy",
+    "Apollo Speciality Hospital Trichy",
+    "KG Hospitals Trichy",
+    "SPS Hospital",
+    "Government Medical College Hospital Trichy",
+    "CMC Hospital Trichy",
+    "Tamil Nadu Government Hospital",
+    "Jayam Hospital"
+  ],
+  "Erode": [
+    "KG Hospital Erode",
+    "Vellore Christian Medical College - Erode Branch",
+    "VGM Hospital",
+    "Government Hospital Erode",
+    "SPS Hospital Erode",
+    "Apollo Hospital Erode"
+  ],
+  "Tirunelveli": [
+    "VKS Hospital",
+    "Apollo Hospital Tirunelveli",
+    "Tirunelveli Medical College Hospital",
+    "Sankar Hospital",
+    "Thoothukudi Medical College Hospital",
+    "Government Hospital Tirunelveli"
+  ],
+  "Vellore": [
+    "Christian Medical College Vellore",
+    "Apollo Speciality Hospital Vellore",
+    "Aravind Eye Hospital Vellore",
+    "Government Medical College Vellore",
+    "Jeevan Hospital"
+  ],
+  "Thanjavur": [
+    "Government Medical College Hospital Thanjavur",
+    "Apollo Hospital Thanjavur",
+    "Vijaya Hospital Thanjavur",
+    "Aravind Eye Hospital Thanjavur",
+    "Thanjavur Medical College Hospital"
+  ],
+  "Kanchipuram": [
+    "Kanchipuram Medical College Hospital",
+    "Apollo Hospital Kanchipuram",
+    "Government Hospital Kanchipuram",
+    "Sri Balaji Hospital"
+  ],
+  "Tiruvallur": [
+    "Apollo Hospital Tiruvallur",
+    "Government Hospital Tiruvallur",
+    "Sri Balaji Hospital Tiruvallur"
+  ],
+  "Dindigul": [
+    "Government Hospital Dindigul",
+    "Apollo Hospital Dindigul",
+    "KG Hospital Dindigul"
+  ],
+  "Theni": [
+    "Government Hospital Theni",
+    "Meenakshi Mission Hospital Theni",
+    "Apollo Hospital Theni"
+  ],
+  "Tirupur": [
+    "KG Hospital Tirupur",
+    "Apollo Hospital Tirupur",
+    "Government Hospital Tirupur",
+    "KMCH Tirupur"
+  ],
+  "Namakkal": [
+    "Government Hospital Namakkal",
+    "KG Hospital Namakkal",
+    "Vinayaka Mission Hospital Namakkal"
+  ],
+  "Krishnagiri": [
+    "Government Hospital Krishnagiri",
+    "Apollo Hospital Krishnagiri",
+    "KG Hospital Krishnagiri"
+  ],
+  "Dharmapuri": [
+    "Government Hospital Dharmapuri",
+    "Apollo Hospital Dharmapuri"
+  ],
+  "Karur": [
+    "Government Hospital Karur",
+    "KG Hospital Karur",
+    "Apollo Hospital Karur"
+  ],
+  "Thoothukudi": [
+    "Thoothukudi Medical College Hospital",
+    "Apollo Hospital Thoothukudi",
+    "Government Hospital Thoothukudi",
+    "CMC Hospital Thoothukudi"
+  ],
+  "Ramanathapuram": [
+    "Government Hospital Ramanathapuram",
+    "Apollo Hospital Ramanathapuram"
+  ],
+  "Sivaganga": [
+    "Government Hospital Sivaganga",
+    "KG Hospital Sivaganga"
+  ],
+  "Virudhunagar": [
+    "Government Hospital Virudhunagar",
+    "Apollo Hospital Virudhunagar"
+  ],
+  "Tiruvarur": [
+    "Government Hospital Tiruvarur",
+    "Apollo Hospital Tiruvarur"
+  ],
+  "Nagapattinam": [
+    "Government Hospital Nagapattinam",
+    "KG Hospital Nagapattinam"
+  ],
+  "Perambalur": [
+    "Government Hospital Perambalur"
+  ],
+  "Ariyalur": [
+    "Government Hospital Ariyalur"
+  ],
+  "Nilgiris": [
+    "Government Hospital Ooty",
+    "Apollo Hospital Ooty",
+    "KG Hospital Ooty"
+  ],
+  "Kanyakumari": [
+    "Kanyakumari Medical College Hospital",
+    "Apollo Hospital Kanyakumari",
+    "Government Hospital Kanyakumari"
+  ],
+  "Tiruvannamalai": [
+    "Government Hospital Tiruvannamalai",
+    "Apollo Hospital Tiruvannamalai"
+  ],
+  "Viluppuram": [
+    "Government Hospital Viluppuram",
+    "Apollo Hospital Viluppuram"
+  ],
+  "Pudukkottai": [
+    "Government Hospital Pudukkottai",
+    "Apollo Hospital Pudukkottai"
+  ],
+  "Cuddalore": [
+    "Government Hospital Cuddalore",
+    "Apollo Hospital Cuddalore",
+    "KG Hospital Cuddalore"
+  ]
+}
+
